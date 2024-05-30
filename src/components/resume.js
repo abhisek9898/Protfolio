@@ -14,9 +14,9 @@ const ResumeDownloadButton = () => {
     <button
       onClick={downloadResume}
       style={{
-        padding: "1%",
+        padding: "2%",
         color: "#000",
-        fontSize: 20,
+        fontSize: 15,
         backgroundColor: "lightblue",
         border: "2px solid #777",
         fontWeight: "bold",
